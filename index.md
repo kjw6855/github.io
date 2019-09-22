@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# Research Interest
+software-defined networks, cloud computing, system software for non-volatile memory, databases, distributed systems, and operating systems
 
-You can use the [editor on GitHub](https://github.com/kjw6855/github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Education
+Sungkyunkwan University, Suwon, Republic of Korea
+Sungkyunkwan University, Suwon, Republic of Korea
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Professional Experience
+ATTO Research, Seongnam, Republic of Korea
+Research Engineer
+• Created flow-specific database for concurrent and consistent software-defined network updates
+• Designed and developed SDN applications to manage underlay/overlay networks in private cloud • Developed secure SDN controller cluster with TLS, RBAC, and flow monitoring
+• Implemented domain-specific language and command-line interface for SDN controller
 
-### Markdown
+Acryl Inc., Seoul, Republic of Korea
+Intern
+• Developed prototype of Android messenger application
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hancom corp., Seongnam, Republic of Korea Intern
+• Participated in quality assurance team
 
-```markdown
-Syntax highlighted code block
+# Research Experience
+Sungkyunkwan University, Suwon, Republic of Korea
+Research Assistant - Advisor: Prof. Hwansoo Han
+• Participated in projects on system software for non-volatile memory
 
-# Header 1
-## Header 2
-### Header 3
+Purdue University, West Lafayette, IN, USA
+Research Intern - Advisor: Prof. Eric Matson
+• Designed and developed road guidance system for visually impaired with Arduino and Android application
 
-- Bulleted
-- List
+Sungkyunkwan University, Suwon, Republic of Korea
+Research Assistant - Cooperative Project with AhnLab - Advisor: Prof. Jee-Hyong Lee • Analyzed existing thesis and source code on high-performance packet classification for Netfilter
 
-1. Numbered
-2. List
+# Publications
+Jungsik Choi, Jiwon Kim, Hwansoo Han. Efficient Memory Mapped File I/O for In-Memory File Systems, USENIX Workshop on
+Hot Topics in Storage and File Systems, Jul. 2017.
 
-**Bold** and _Italic_ and `Code` text
+Jungsik Choi, Joonwook Ahn, Jiwon Kim, Sungtae Ryu, Hwansoo Han. In-Memory File System with Efficient Swap Support for
+Mobile Smart Devices, IEEE Transactions on Consumer Electronics, Aug. 2016.
 
-[Link](url) and ![Image](src)
-```
+# Patents
+Memory mapping management method for nonvolatile main memory system, Jungsik Choi, Hwansoo Han, Jiwon Kim, US Patent 10,185,654, 2019.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Method, apparatus and computer program for defending software defined network, Jiwon Kim, Hyunwoo Park, Inwook Hwang, Jaewoong Chung, KR 10-1932656, 2018.
+Method and computer program for handling trouble using flow-mod message in software defined networking environment, Hyun- woo Park, Jiwon Kim, Inwook Hwang, Jaeho Kim, Beomsoo Park, Yongjoo Song, KR 10-1931543, 2018.
+Method, apparatus, and computer program for verifying host status information in a software defined network, Jiwon Kim, Inwook Hwang, Yongjoo Song, KR 10-1931139, 2018.
+Method for atomic update of memory mapped files stored in non-volatile memory and control apparatus thereof, Hwansoo Han, Jungsik Choi, Jiwon Kim, KR 10-1881038, 2018.
 
-### Jekyll Themes
+# Teaching Experience
+Spring 2016 SKKU SWE2013 - Software Creative Project
+Fall 2015 SKKU SWE3010 - Compiler Design
+Spring 2015 SKKU GEDB029 - Basis and Practice in Programming
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kjw6855/github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Honors and Awards
+Aug 2018 Hall of Fame, ATTO Research
+Dec 2015 Outstanding Paper Award, Korea Institute of Information Scientists and Engineers
+Feb 2013, Sep 2012 Dean’s List, Sungkyunkwan University
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Scholarships
+Feb 2016 - Aug 2016 Feb 2015 - Aug 2016 Mar 2011 - Feb 2015
+Simsan Scholarship, Sungkyunkwan University
+Masters Scholarship, Sungkyunkwan University
+National Science & Technology Scholarship, Korea Student Aid Foundation
