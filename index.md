@@ -8,7 +8,8 @@ software-defined networks, operating systems, databases, and system software for
 # Professional Experience
 - **Research Engineer**, ATTO Research, Seongnam, Republic of Korea
   - Created flow-specific database for concurrent and consistent software-defined network updates
-  - Designed and developed SDN applications to manage underlay/overlay networks in private cloud • Developed secure SDN controller cluster with TLS, RBAC, and flow monitoring
+  - Designed and developed SDN applications to manage underlay/overlay networks in private cloud
+  - Developed secure SDN controller cluster with TLS, RBAC, and flow monitoring
   - Implemented domain-specific language and command-line interface for SDN controller
 
 - **Intern**, Acryl Inc., Seoul, Republic of Korea
