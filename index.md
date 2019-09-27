@@ -2,29 +2,29 @@
 software-defined networks, cloud computing, system software for non-volatile memory, databases, distributed systems, and operating systems
 
 # Education
-- **MS**, Sungkyunkwan University, Suwon, Republic of Korea, Mar 2015 ~ Oct 2016
-- **BS**, Sungkyunkwan University, Suwon, Republic of Korea, Mar 2011 ~ Feb 2015
+- **M.S.**, Sungkyunkwan University, Suwon, Republic of Korea, Mar 2015 ~ Oct 2016
+- **B.S.**, Sungkyunkwan University, Suwon, Republic of Korea, Mar 2011 ~ Feb 2015
 
 # Professional Experience
-- _Research Engineer_, **ATTO Research**, Seongnam, Republic of Korea
+- **Research Engineer**, ATTO Research, Seongnam, Republic of Korea
   - Created flow-specific database for concurrent and consistent software-defined network updates
   - Designed and developed SDN applications to manage underlay/overlay networks in private cloud • Developed secure SDN controller cluster with TLS, RBAC, and flow monitoring
   - Implemented domain-specific language and command-line interface for SDN controller
 
-- _Intern_, **Acryl Inc.**, Seoul, Republic of Korea
+- **Intern**, Acryl Inc., Seoul, Republic of Korea
   - Developed prototype of Android messenger application
 
-- _Intern_, **Hancom corp.**, Seongnam, Republic of Korea
+- **Intern**, Hancom corp., Seongnam, Republic of Korea
   - Participated in quality assurance team
 
 # Research Experience
-- _Research Assistant_, **Sungkyunkwan University**, Suwon, Republic of Korea - Advisor: Prof. Hwansoo Han
+- **Research Assistant**, Sungkyunkwan University, Suwon, Republic of Korea - Advisor: Prof. Hwansoo Han
   - Participated in projects on system software for non-volatile memory
 
-- _Research Intern_, **Purdue University**, West Lafayette, IN, USA - Advisor: Prof. Eric Matson
+- **Research Intern**, Purdue University, West Lafayette, IN, USA - Advisor: Prof. Eric Matson
   - Designed and developed road guidance system for visually impaired with Arduino and Android application
 
-- _Research Assistant_, **Sungkyunkwan University**, Suwon, Republic of Korea - Advisor: Prof. Jee-Hyong Lee
+- **Research Assistant**, Sungkyunkwan University, Suwon, Republic of Korea - Advisor: Prof. Jee-Hyong Lee
   - Cooperative Project with AhnLab
   - Analyzed a doctoral thesis and source code on high-performance packet classification for Netfilter
 
