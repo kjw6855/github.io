@@ -1,5 +1,5 @@
 # Research Interests
-software-defined networks, cloud computing, system software for non-volatile memory, databases, distributed systems, and operating systems
+software-defined networks, operating systems, databases, and system software for non-volatile memory
 
 # Education
 - **M.S.**, Sungkyunkwan University, Suwon, Republic of Korea, Mar 2015 ~ Oct 2016
