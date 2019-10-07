@@ -11,6 +11,21 @@
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+  <style>
+  .button {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .button1 {border-radius: 12px;}
+  </style>
   </head>
   <body>
     <div class="wrapper">
@@ -33,7 +48,7 @@
         -->
 
         {% if site.show_downloads %}
-        <a href="{{ site.cv }}" class="btn btn-primary" role="button">Download CV</a></li>
+        <a href="{{ site.cv }}" class="button button1">Download CV</a></li>
         {% endif %}
       </header>
       <section>
