@@ -8,24 +8,13 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-  <style>
-  .button {
-    background-color: #008CBA;
-    border: none;
-    color: white;
-    padding: 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-  }
-  .button1 {border-radius: 12px;}
-  </style>
   </head>
   <body>
     <div class="wrapper">
@@ -48,7 +37,7 @@
         -->
 
         {% if site.show_downloads %}
-        <a href="{{ site.cv }}" class="button button1">Download CV</a></li>
+        <a href="{{ site.cv }}" class="btn btn-primary" role="button">Download CV</a></li>
         {% endif %}
       </header>
       <section>
