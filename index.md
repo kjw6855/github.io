@@ -52,6 +52,7 @@ Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), IEEE Transa
 # Teaching Experience
 - SWE2013, Software Creative Project, SKKU, Spring 2016
 - SWE3010, Compiler Design, SKKU, Fall 2015
+- ICE2002, Data Structures, SKKU, Fall 2015
 - GEDB029, Basis and Practice in Programming, SKKU, Spring 2015
 
 # Honors and Awards
