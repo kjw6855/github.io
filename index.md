@@ -36,7 +36,7 @@ Hot Topics in Storage and File Systems](https://www.usenix.org/conference/hotsto
 - Jungsik Choi, Joonwook Ahn, __Jiwon Kim__, Sungtae Ryu, Hwansoo Han. [In-Memory File System with Efficient Swap Support for
 Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), IEEE Transactions on Consumer Electronics, Vol. 62(3), pp. 275-282, Aug 2016.
 
-## Domestic Journal Articles
+## Domestic Journal Articles (Korean)
 - Kyungjun Lee, __Jiwon Kim__, Sungtae Ryu, Hwansoo Han, [In-Memory File System Backed by Cloud Storage Services as Permanent Storages](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06737192&language=en), Journal of KIISE, Vol. 43(8), pp. 841-847, Aug 2016.
 - __Jiwon Kim__, Kyungjun Lee, Sungtae Ryu, Hwansoo Han, [Performance Analysis of Cloud-Backed File Systems with Various Object Sizes](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06703727&language=en), Journal of KIISE, Vol. 43(7), pp. 744-750, Jul 2016.
 - __Jiwon Kim__, Jungsik Choi, and Hwansoo Han, [Mapping Cache for High-performance Memory Mapped File I/O in Memory File Systems](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06668085&language=en), Journal of KIISE, Vol. 43(5), pp. 524-530, May 2016.

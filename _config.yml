@@ -2,4 +2,6 @@ theme: jekyll-theme-minimal
 title: Jiwon Kim
 description: Software Engineer at ATTO Research
 logo: /img/jiwon.JPG
+show_downloads: true
+cv: /data/jiwon-cv.pdf
 google_analytics: 'UA-149507113-2'
