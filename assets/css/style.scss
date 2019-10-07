@@ -2,8 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-a {
+a:hover:not(.title) {
    text-decoration: underline;
-   -webkit-text-decoration-color: rgba(255, 0, 0, 0.4); /* Safari */
-   text-decoration-color: rgba(255, 0, 0, 0.4);
+   font-weight: normal;
 }
