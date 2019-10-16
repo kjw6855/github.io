@@ -22,7 +22,7 @@ software-defined networks, operating systems, databases, and system software for
 - **Research Assistant**, [ARCS Lab](http://arcs.skku.edu/), Sungkyunkwan University, Suwon, Republic of Korea, Mar 2014 ~ Oct 2016 (Advisor: Prof. Hwansoo Han)
   - Participated in projects on system software for non-volatile memory
 
-- **Research Intern**, [M2M Lab](https://m2m.tech.purdue.edu/index.htm), Purdue University, West Lafayette, IN, USA, Aug 2014 ~ Feb 2014 (Advisor: Prof. Eric Matson)
+- **Research Intern**, [M2M Lab](https://m2m.tech.purdue.edu/index.htm), Purdue University, West Lafayette, IN, USA, Aug 2013 ~ Feb 2014 (Advisor: Prof. Eric Matson)
   - Designed and developed road guidance system for visually impaired with Arduino and Android application
 
 - **Co-op Research Assistant**, Sungkyunkwan University, Suwon, Republic of Korea, Mar 2012 ~ Jan 2013 (Advisor: Prof. Jee-Hyong Lee)
