@@ -31,6 +31,8 @@ software-defined networks, operating systems, databases, and system software for
 
 # Publications
 ## Journal Articles/Conference Papers
+- __Jiwon Kim__, Jaekyun Shim, Hyunwoo Park, Yongjoo Song, JaeWoong Chung. SDN MVCC: Experience with Concurrent and Consistent Software-Defined Networking Updates, *ACM Symposium on SDN Research (SOSR '20)*, Mar 2020. (submitted)
+
 - Jungsik Choi, __Jiwon Kim__, Hwansoo Han. [Efficient Memory Mapped File I/O for In-Memory File Systems](https://www.usenix.org/conference/hotstorage17/program/presentation/choi), *USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage'17)*, Jul 2017.
 
 - Jungsik Choi, Joonwook Ahn, __Jiwon Kim__, Sungtae Ryu, Hwansoo Han. [In-Memory File System with Efficient Swap Support for
