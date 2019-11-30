@@ -70,9 +70,9 @@ Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Trans
 # Honors and Awards
 - [Hall of Fame](img/awards/hall-of-fame.pdf), ATTO Research, Aug 2018
 - [Outstanding Paper Award](img/awards/outstanding-paper.pdf), Korea Institute of Information Scientists and Engineers, Dec 2015
-- [Dean’s List](img/awards/deans-list13.pdf), Sungkyunkwan University, Feb 2013 and Sep 2012
+- [Dean’s List](img/awards/deans-list13.pdf), Sungkyunkwan University, Apr 2013 and Oct 2012
 
 # Scholarships
-- Simsan Scholarship, Sungkyunkwan University, Feb 2016 ~ Aug 2016
-- Masters and Doctors Connected Track Scholarship, Sungkyunkwan University, Feb 2015 ~ Aug 2016
+- Simsan Scholarship, Sungkyunkwan University, Mar 2016 ~ Aug 2016
+- Masters and Doctors Connected Track Scholarship, Sungkyunkwan University, Mar 2015 ~ Aug 2016
 - National Science & Technology Scholarship, Korea Student Aid Foundation, Mar 2011 ~ Feb 2015
