@@ -23,6 +23,7 @@ software-defined networks, operating systems, databases, and system software for
   - Participated in projects on system software for non-volatile memory
 
 - **Research Intern**, [M2M Lab](https://m2m.tech.purdue.edu/index.htm), Purdue University, West Lafayette, IN, USA, Aug 2013 ~ Feb 2014 (Advisor: Prof. Eric Matson)
+  - Participated in [NIPA/Capstone Internship Program](img/awards/purdue.pdf)
   - Designed and developed road guidance system for visually impaired with Arduino and Android application
 
 - **Co-op Research Assistant**, Sungkyunkwan University, Suwon, Republic of Korea, Mar 2012 ~ Jan 2013 (Advisor: Prof. Jee-Hyong Lee)
@@ -67,9 +68,9 @@ Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Trans
 - GEDB029, Basis and Practice in Programming, SKKU, Spring 2015
 
 # Honors and Awards
-- Hall of Fame, ATTO Research, Aug 2018
-- Outstanding Paper Award, Korea Institute of Information Scientists and Engineers, Dec 2015
-- Dean’s List, Sungkyunkwan University, Feb 2013 and Sep 2012
+- [Hall of Fame](img/awards/hall-of-fame.pdf), ATTO Research, Aug 2018
+- [Outstanding Paper Award](img/awards/outstanding-paper.pdf), Korea Institute of Information Scientists and Engineers, Dec 2015
+- [Dean’s List](img/awards/deans-list13.pdf), Sungkyunkwan University, Feb 2013 and Sep 2012
 
 # Scholarships
 - Simsan Scholarship, Sungkyunkwan University, Feb 2016 ~ Aug 2016
