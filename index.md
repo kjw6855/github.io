@@ -74,5 +74,5 @@ Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Trans
 
 # Scholarships
 - Simsan Scholarship, Sungkyunkwan University, Feb 2016 ~ Aug 2016
-- Masters Scholarship, Sungkyunkwan University, Feb 2015 ~ Aug 2016
+- Masters and Doctors Connected Track Scholarship, Sungkyunkwan University, Feb 2015 ~ Aug 2016
 - National Science & Technology Scholarship, Korea Student Aid Foundation, Mar 2011 ~ Feb 2015
