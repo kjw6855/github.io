@@ -32,7 +32,7 @@ software-defined networks, operating systems, databases, and system software for
 
 # Publications
 ## Journal Articles/Conference Papers
-- __Jiwon Kim__, Jaekyun Shim, Hyunwoo Park, Yongjoo Song, JaeWoong Chung. SDN MVCC: Experience with Concurrent and Consistent Software-Defined Networking Updates (Manuscript under review).
+- __Jiwon Kim__, Jaekyun Shim, Hyunwoo Park, Yongjoo Song, JaeWoong Chung. SDN MVCC: Experience with Concurrent and Consistent Software-Defined Networking Updates (Manuscript in preparation).
 
 - Jungsik Choi, __Jiwon Kim__, Hwansoo Han. [Efficient Memory Mapped File I/O for In-Memory File Systems](https://www.usenix.org/conference/hotstorage17/program/presentation/choi), *USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage'17)*, Jul 2017.
 
@@ -51,11 +51,13 @@ Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Trans
 # Patents
 - Jungsik Choi, Hwansoo Han, __Jiwon Kim__, [Memory mapping management method for nonvolatile main memory system](https://patents.google.com/patent/US10185654B2/en), US Patent 10,185,654, 2019.
 
+- Yongjoo Song, __Jiwon Kim__, [Method, apparatus and computer program for tracking traffic using software defined networking](https://patents.google.com/patent/KR102066555B1/en), KR 10-2066555, 2020.
+
 - Hyunwoo Park, __Jiwon Kim__, Inwook Hwang, Jaeho Kim, Beomsoo Park, Yongjoo Song, [Method and computer program for handling trouble using packet-out message in software defined networking environment](https://patents.google.com/patent/KR101969304B1/en), KR 10-1969304, 2019.
 
 - __Jiwon Kim__, Hyunwoo Park, Inwook Hwang, Jaewoong Chung, [Method, apparatus and computer program for defending software defined network](https://patents.google.com/patent/KR101932656B1/en), KR 10-1932656, 2018.
 
-- Hyun-woo Park, __Jiwon Kim__, Inwook Hwang, Jaeho Kim, Beomsoo Park, Yongjoo Song, [Method and computer program for handling trouble using flow-mod message in software defined networking environment](https://patents.google.com/patent/KR101931543B1/en), KR 10-1931543, 2018.
+- Hyunwoo Park, __Jiwon Kim__, Inwook Hwang, Jaeho Kim, Beomsoo Park, Yongjoo Song, [Method and computer program for handling trouble using flow-mod message in software defined networking environment](https://patents.google.com/patent/KR101931543B1/en), KR 10-1931543, 2018.
 
 - __Jiwon Kim__, Inwook Hwang, Yongjoo Song, [Method, apparatus, and computer program for verifying host status information in a software defined network](https://patents.google.com/patent/KR101931139B1/en), KR 10-1931139, 2018.
 
