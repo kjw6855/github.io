@@ -2,7 +2,7 @@
 system security, software-defined networks, operating systems, and system software for non-volatile memory
 
 # Education
-- **Ph.D**, Computer Science, [Purdue University](https://www.cs.purdue.edu/), Oct 2020 ~
+- **Ph.D**, Computer Science, [Purdue University](https://www.cs.purdue.edu/), Aug 2020 ~
 - **M.S.**, Platform Software, [Sungkyunkwan University](https://www.skku.edu/eng/), Mar 2015 ~ Oct 2016
 - **B.S.**, Software Engineering, [Sungkyunkwan University](https://www.skku.edu/eng/), Mar 2011 ~ Feb 2015
 
