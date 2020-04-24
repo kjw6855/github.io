@@ -1,7 +1,8 @@
 # Research Interests
-software-defined networks, operating systems, databases, and system software for non-volatile memory
+system security, software-defined networks, operating systems, and system software for non-volatile memory
 
 # Education
+- **Ph.D**, Computer Science, [Purdue University](https://www.cs.purdue.edu/), Oct 2020 ~
 - **M.S.**, Platform Software, [Sungkyunkwan University](https://www.skku.edu/eng/), Mar 2015 ~ Oct 2016
 - **B.S.**, Software Engineering, [Sungkyunkwan University](https://www.skku.edu/eng/), Mar 2011 ~ Feb 2015
 
@@ -75,6 +76,7 @@ Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Trans
 - [Dean’s List](img/awards/deans-list13.pdf), Sungkyunkwan University, Apr 2013 and Oct 2012
 
 # Scholarships
+- Ross Scholarship, Purdue University, Oct 2020 ~ May 2024
 - Simsan Scholarship, Sungkyunkwan University, Mar 2016 ~ Aug 2016
 - Masters and Doctors Connected Track Scholarship, Sungkyunkwan University, Mar 2015 ~ Aug 2016
 - National Science & Technology Scholarship, Korea Student Aid Foundation, Mar 2011 ~ Feb 2015
