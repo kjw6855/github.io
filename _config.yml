@@ -1,7 +1,12 @@
 theme: jekyll-theme-minimal
 title: Jiwon Kim
-description: Prospective Ph.D Student
+email: kim1685@purdue.edu
+description: >-
+    Ph.D Student
+    Computer Science
+    Purdue University
 logo: /img/jiwon.JPG
 show_downloads: true
 cv: /data/jiwon-cv.pdf
+avatar: "/img/purdue.png"
 google_analytics: 'UA-149507113-2'

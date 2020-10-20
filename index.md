@@ -6,8 +6,23 @@ system security, software-defined networks, operating systems, and system softwa
 - **M.S.**, Platform Software, [Sungkyunkwan University](https://www.skku.edu/eng/), Mar 2015 ~ Oct 2016
 - **B.S.**, Software Engineering, [Sungkyunkwan University](https://www.skku.edu/eng/), Mar 2011 ~ Feb 2015
 
+# Research Experience
+- **Research Assistant**, [PURSEC Lab](https://pursec.cs.purdue.edu/), Purdue University, West Lafayette, IN, USA, Oct 2020 ~ *Present* (Advisor: [Prof. Dave Tian](https://davejingtian.org/))
+  - Participated in projects on security for software-defined networking
+
+- **Research Assistant**, [ARCS Lab](http://arcs.skku.edu/), Sungkyunkwan University, Suwon, Republic of Korea, Mar 2014 ~ Oct 2016 (Advisor: [Prof. Hwansoo Han](https://arcs.skku.edu/People/HwansooHan))
+  - Participated in projects on system software for non-volatile memory
+
+- **Research Intern**, [M2M Lab](https://m2m.tech.purdue.edu/index.htm), Purdue University, West Lafayette, IN, USA, Aug 2013 ~ Feb 2014 (Advisor: [Prof. Eric Matson](https://polytechnic.purdue.edu/profile/ematson))
+  - Participated in [NIPA/Capstone Internship Program](img/awards/purdue.pdf)
+  - Designed and developed road guidance system for visually impaired with Arduino and Android application
+
+- **Co-op Research Assistant**, Sungkyunkwan University, Suwon, Republic of Korea, Mar 2012 ~ Jan 2013 (Advisor: [Prof. Jee-Hyong Lee](http://iislab.skku.edu/iish/members))
+  - Cooperative Project with AhnLab
+  - Analyzed a doctoral thesis and source code on high-performance packet classification for Netfilter
+
 # Professional Experience
-- **Research Engineer**, ATTO Research, Seongnam, Republic of Korea, Sep 2016 ~ *Present*
+- **Research Engineer**, ATTO Research, Seongnam, Republic of Korea, Sep 2016 ~ Jul 2020
   - Created flow-specific database for concurrent and consistent software-defined network updates
   - Designed and developed SDN applications to manage underlay/overlay networks in private cloud
   - Developed secure SDN controller cluster with TLS, RBAC, and flow monitoring
@@ -18,18 +33,6 @@ system security, software-defined networks, operating systems, and system softwa
 
 - **Intern**, Hancom corp., Seongnam, Republic of Korea, Feb 2012
   - Participated in quality assurance team
-
-# Research Experience
-- **Research Assistant**, [ARCS Lab](http://arcs.skku.edu/), Sungkyunkwan University, Suwon, Republic of Korea, Mar 2014 ~ Oct 2016 (Advisor: Prof. Hwansoo Han)
-  - Participated in projects on system software for non-volatile memory
-
-- **Research Intern**, [M2M Lab](https://m2m.tech.purdue.edu/index.htm), Purdue University, West Lafayette, IN, USA, Aug 2013 ~ Feb 2014 (Advisor: Prof. Eric Matson)
-  - Participated in [NIPA/Capstone Internship Program](img/awards/purdue.pdf)
-  - Designed and developed road guidance system for visually impaired with Arduino and Android application
-
-- **Co-op Research Assistant**, Sungkyunkwan University, Suwon, Republic of Korea, Mar 2012 ~ Jan 2013 (Advisor: Prof. Jee-Hyong Lee)
-  - Cooperative Project with AhnLab
-  - Analyzed a doctoral thesis and source code on high-performance packet classification for Netfilter
 
 # Publications
 ## Journal Articles/Conference Papers
