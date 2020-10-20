@@ -3,10 +3,10 @@ title: Jiwon Kim
 email: kim1685@purdue.edu
 description: >-
     Ph.D Student
-    Computer Science
-    Purdue University
 logo: /img/jiwon.JPG
 show_downloads: true
 cv: /data/jiwon-cv.pdf
 avatar: "/img/purdue.png"
 google_analytics: 'UA-149507113-2'
+plugins:
+ - jekyll-seo-tag
