@@ -7,7 +7,7 @@ system security, software-defined networks, operating systems, and system softwa
 - **B.S.**, Software Engineering, [Sungkyunkwan University](https://www.skku.edu/eng/), Mar 2011 ~ Feb 2015
 
 # Research Experience
-- **Research Assistant**, [PURSEC Lab](https://pursec.cs.purdue.edu/), Purdue University, West Lafayette, IN, USA, Oct 2020 ~ *Present* (Advisor: [Prof. Dave Tian](https://davejingtian.org/))
+- **Research Assistant**, [PURSEC Lab](https://pursec.cs.purdue.edu/), Purdue University, West Lafayette, IN, USA, Aug 2020 ~ *Present* (Advisor: [Prof. Dave Tian](https://davejingtian.org/))
   - Participated in projects on security for software-defined networking
 
 - **Research Assistant**, [ARCS Lab](http://arcs.skku.edu/), Sungkyunkwan University, Suwon, Republic of Korea, Mar 2014 ~ Oct 2016 (Advisor: [Prof. Hwansoo Han](https://arcs.skku.edu/People/HwansooHan))
