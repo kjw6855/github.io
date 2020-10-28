@@ -36,8 +36,6 @@ system security, software-defined networks, operating systems, and system softwa
 
 # Publications
 ## Journal Articles/Conference Papers
-- __Jiwon Kim__, Jaekyun Shim, Hyunwoo Park, Yongjoo Song, JaeWoong Chung. SDN MVCC: Experience with Concurrent and Consistent Software-Defined Networking Updates (Manuscript in preparation).
-
 - Jungsik Choi, __Jiwon Kim__, Hwansoo Han. [Efficient Memory Mapped File I/O for In-Memory File Systems](https://www.usenix.org/conference/hotstorage17/program/presentation/choi), *USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage'17)*, Jul 2017.
 
 - Jungsik Choi, Joonwook Ahn, __Jiwon Kim__, Sungtae Ryu, Hwansoo Han. [In-Memory File System with Efficient Swap Support for
@@ -54,6 +52,8 @@ Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Trans
 
 # Patents
 - Jungsik Choi, Hwansoo Han, __Jiwon Kim__, [Memory mapping management method for nonvolatile main memory system](https://patents.google.com/patent/US10185654B2/en), US Patent 10,185,654, 2019.
+
+- __Jiwon Kim__, Jaekyun Shim, Yongjoo Song, [Methods, apparatus and computer programs for providing high availability and reliability in software defined network](https://patents.google.com/patent/KR102092091B1/en), KR 10-2092091, 2020.
 
 - Yongjoo Song, __Jiwon Kim__, [Method, apparatus and computer program for tracking traffic using software defined networking](https://patents.google.com/patent/KR102066555B1/en), KR 10-2066555, 2020.
 
@@ -79,7 +79,7 @@ Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Trans
 - [Dean’s List](img/awards/deans-list13.pdf), Sungkyunkwan University, Apr 2013 and Oct 2012
 
 # Scholarships
-- Ross Scholarship, Purdue University, Oct 2020 ~ May 2024
+- Ross Fellowship, Purdue University, Oct 2020 ~ Oct 2024
 - Simsan Scholarship, Sungkyunkwan University, Mar 2016 ~ Aug 2016
 - Masters and Doctors Connected Track Scholarship, Sungkyunkwan University, Mar 2015 ~ Aug 2016
 - National Science & Technology Scholarship, Korea Student Aid Foundation, Mar 2011 ~ Feb 2015
