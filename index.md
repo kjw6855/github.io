@@ -53,6 +53,8 @@ Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Trans
 # Patents
 - Jungsik Choi, Hwansoo Han, __Jiwon Kim__, [Memory mapping management method for nonvolatile main memory system](https://patents.google.com/patent/US10185654B2/en), US Patent 10,185,654, 2019.
 
+- __Jiwon Kim__, Yongjoo Song, [Method, apparatus and computer program for supporting distributed snat in a cloud environment in a software defined network](https://patents.google.com/patent/KR102200402B1/en), KR 10-2200402, 2021.
+
 - __Jiwon Kim__, Jaekyun Shim, Yongjoo Song, [Methods, apparatus and computer programs for providing high availability and reliability in software defined network](https://patents.google.com/patent/KR102092091B1/en), KR 10-2092091, 2020.
 
 - Yongjoo Song, __Jiwon Kim__, [Method, apparatus and computer program for tracking traffic using software defined networking](https://patents.google.com/patent/KR102066555B1/en), KR 10-2066555, 2020.
