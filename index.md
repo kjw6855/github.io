@@ -22,7 +22,7 @@ system security, software-defined networks, operating systems, and system softwa
   - Analyzed a doctoral thesis and source code on high-performance packet classification for Netfilter
 
 # Professional Experience
-- **Research Engineer**, ATTO Research, Seongnam, Republic of Korea, Sep 2016 ~ Jul 2020
+- **Research Engineer**, ATTO Research, Seoul, Republic of Korea, Sep 2016 ~ Jul 2020
   - Created flow-specific database for concurrent and consistent software-defined network updates
   - Designed and developed SDN applications to manage underlay/overlay networks in private cloud
   - Developed secure SDN controller cluster with TLS, RBAC, and flow monitoring

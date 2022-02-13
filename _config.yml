@@ -1,12 +1,14 @@
-theme: jekyll-theme-minimal
+theme: jekyll-remote-theme
 title: Jiwon Kim
 email: kim1685@purdue.edu
+color-scheme: auto
 description: >-
-    Ph.D Student
-logo: /img/jiwon.JPG
+    Ph.D Student in Computer Science
+logo: /img/jiwonkim.JPG
 show_downloads: true
 cv: /data/jiwon-cv.pdf
 avatar: "/img/purdue.png"
 google_analytics: 'UA-149507113-2'
+remote_theme: BDHU/minimalist
 plugins:
- - jekyll-seo-tag
+ - jekyll-remote-theme
