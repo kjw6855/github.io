@@ -10,5 +10,10 @@ cv: /data/jiwon-cv.pdf
 avatar: "/img/purdue.png"
 google_analytics: 'UA-149507113-2'
 remote_theme: BDHU/minimalist
+favicon: true
 plugins:
  - jekyll-remote-theme
+sidebar:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/kjw6855
