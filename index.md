@@ -14,7 +14,7 @@ system security, software-defined networks, fuzzing, operating systems, and syst
 - **B.S.**, Software Engineering, [Sungkyunkwan University](https://www.skku.edu/eng/), Mar 2011 ~ Feb 2015
 
 # Research Experience
-- **Research Assistant**, [PURSEC Lab](https://pursec.cs.purdue.edu/), Purdue University, West Lafayette, IN, USA, Aug 2020 ~ *Present* (Advisor: [Prof. Dave Tian](https://davejingtian.org/))
+- **Research Assistant**, [PURSEC Lab](https://pursec.cs.purdue.edu/), Purdue University, West Lafayette, IN, USA, Aug 2020 ~ *Present* (Advisor: [Prof. Dave (Jing) Tian](https://davejingtian.org/))
   - Participated in fuzzing intent-based networking project
   - Participated in projects on security for software-defined networking
 
