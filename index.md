@@ -89,7 +89,7 @@ Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Trans
 - [Dean’s List](img/awards/deans-list13.pdf), Sungkyunkwan University, Apr 2013 and Oct 2012
 
 # Scholarships
-- Ross Fellowship, Purdue University, Oct 2020 ~ Oct 2024
+- Ross Fellowship, Purdue University, Aug 2020 ~ Aug 2024
 - Simsan Scholarship, Sungkyunkwan University, Mar 2016 ~ Aug 2016
 - Masters and Doctors Connected Track Scholarship, Sungkyunkwan University, Mar 2015 ~ Aug 2016
 - National Science & Technology Scholarship, Korea Student Aid Foundation, Mar 2011 ~ Feb 2015
