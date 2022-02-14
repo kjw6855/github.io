@@ -1,34 +1,74 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-a:hover:not(.title):not(.cv_button) {
-   text-decoration: underline;
-   font-weight: normal;
-}
+@import "jekyll-theme-minimalist";
 
-.cv_button {
-    background-color: white;
-    border: 2px solid #008CBA;
-    color: #008CBA;
-    padding: 10px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 12px;
-    margin: 0px 0px 20px;
-    cursor: pointer;
+.img-circle {
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
     border-radius: 8px;
-    -webkit-transition-duration: 0.2s;
-    transition-duration: 0.2s;
+    margin-bottom: 10px;
 }
 
-.cv_button:hover {
-    background-color: #008CBA;  /* Blue */
-    color: white;
-    text-decoration: none;
+.circular--square { border-radius: 50%; }
+
+.circular--landscape { display: inline-block; position: relative; width: 180px; height: 180px; overflow: hidden; border-radius: 50%; } .circular--landscape img { height:auto; width: 100%; margin-top: -70px;}
+.circular--portrait { position: relative; width: 200px; height: 200px; overflow: hidden; border-radius: 50%; } .circular--portrait img { width: 100%; height: auto; }
+
+
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
 }
 
-.cv {
-    text-align: center;
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.popup {
+  margin: 70px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  width: 30%;
+  position: relative;
+  transition: all 1s ease-in-out;
+}
+
+.popup .close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.popup .close:hover {
+  color: #06D85F;
+}
+
+.popup .content {
+  padding-right: 20px;
+  max-height: 30%;
+  overflow: auto;
+  font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+@media screen and (max-width: 700px){
+  .box{
+    width: 70%;
+  }
+  .popup{
+    width: 70%;
+  }
 }

@@ -1,13 +1,21 @@
+# About
+I am a second year Ph.D. student in [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/).
+I work in [PurSec Lab](https://pursec.cs.purdue.edu/) under the supervision of [Prof. Dave (Jing) Tian](https://davejingtian.org/).
+My research interests lie in the field of computer and network security.
+In particular, I am interested in secure architectures for next-generation networks and systems, including cloud networking, software-defined networking (SDN), and intent-based networking (IBN).
+Before joining Purdue, I worked in the industry for almost 4 years as a research engineer to design and develop SDN and cloud networking products.
+
 # Research Interests
-system security, software-defined networks, operating systems, and system software for non-volatile memory
+system security, software-defined networks, fuzzing, operating systems, and system software for non-volatile memory
 
 # Education
-- **Ph.D**, Computer Science, [Purdue University](https://www.cs.purdue.edu/), Aug 2020 ~
+- **Ph.D.**, Computer Science, [Purdue University](https://www.cs.purdue.edu/), Aug 2020 ~ *Present*
 - **M.S.**, Platform Software, [Sungkyunkwan University](https://www.skku.edu/eng/), Mar 2015 ~ Oct 2016
 - **B.S.**, Software Engineering, [Sungkyunkwan University](https://www.skku.edu/eng/), Mar 2011 ~ Feb 2015
 
 # Research Experience
 - **Research Assistant**, [PURSEC Lab](https://pursec.cs.purdue.edu/), Purdue University, West Lafayette, IN, USA, Aug 2020 ~ *Present* (Advisor: [Prof. Dave Tian](https://davejingtian.org/))
+  - Participated in 
   - Participated in projects on security for software-defined networking
 
 - **Research Assistant**, [ARCS Lab](http://arcs.skku.edu/), Sungkyunkwan University, Suwon, Republic of Korea, Mar 2014 ~ Oct 2016 (Advisor: [Prof. Hwansoo Han](https://arcs.skku.edu/People/HwansooHan))
