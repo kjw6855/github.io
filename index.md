@@ -77,6 +77,18 @@ Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Trans
 
 - Hwansoo Han, Jungsik Choi, __Jiwon Kim__, [Method for atomic update of memory mapped files stored in non-volatile memory and control apparatus thereof](https://patents.google.com/patent/KR101881038B1/en), KR 10-1881038, 2018.
 
+# Reported Vulnerabilities and CVEs
+- [CVE-2022-29609](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-29609): disclosure pending
+- [CVE-2022-29608](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-29608): disclosure pending
+- [CVE-2022-29607](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-29607): disclosure pending
+- [CVE-2022-29606](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-29606): disclosure pending
+- [CVE-2022-29605](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-29605): disclosure pending
+- [CVE-2022-29604](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-29604): disclosure pending
+- [CVE-2022-24109](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-24109): disclosure pending
+- [CVE-2022-24035](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-24035): disclosure pending
+- [CVE-2021-38364](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-38364): disclosure pending
+- [CVE-2021-38363](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-38363): disclosure pending
+
 # Teaching Experience
 - SWE2013, Software Creative Project, SKKU, Spring 2016
 - SWE3010, Compiler Design, SKKU, Fall 2015

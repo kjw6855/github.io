@@ -18,6 +18,9 @@ plugins:
  - jekyll-sitemap
  - jekyll-seo-tag
 sidebar:
+  - name: Google Scholar
+    icon: <i class="fa-solid fa-graduation-cap"></i>
+    link: https://scholar.google.com/citations?user=SJ61_b4AAAAJ
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/kjw6855
