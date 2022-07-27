@@ -79,6 +79,7 @@ Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Trans
 
 <!--
 # Reported Vulnerabilities and CVEs
+- [CVE-2022-29944](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-29944): disclosure pending
 - [CVE-2022-29609](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-29609): disclosure pending
 - [CVE-2022-29608](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-29608): disclosure pending
 - [CVE-2022-29607](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-29607): disclosure pending
