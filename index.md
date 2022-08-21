@@ -1,12 +1,12 @@
 # About
-I am a second year Ph.D. student in [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/).
+I am a third year Ph.D. student in [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/).
 I work in [PurSec Lab](https://pursec.cs.purdue.edu/) under the supervision of [Prof. Dave (Jing) Tian](https://davejingtian.org/).
 My research interests lie in the field of computer and network security.
 In particular, I am interested in secure architectures for next-generation networks and systems, including cloud networking, software-defined networking (SDN), and intent-based networking (IBN).
 Before joining Purdue, I worked in the industry for almost 4 years as a research engineer to design and develop SDN and cloud networking products.
 
 # Research Interests
-system security, software-defined networks, fuzzing, operating systems, and system software for non-volatile memory
+system security, software-defined networks, intent-based networking, fuzzing, operating systems, and system software for non-volatile memory
 
 # Education
 - **Ph.D.**, Computer Science, [Purdue University](https://www.cs.purdue.edu/), Aug 2020 ~ *Present*
