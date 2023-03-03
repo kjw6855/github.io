@@ -96,6 +96,10 @@ Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Trans
 - [CVE-2021-38363](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-38363): disclosure pending
 -->
 
+# Academic Services
+### Techincal Program Committee
+- IEEE Workshop on the Internet of Safe Things (__SafeThings__): 2023
+
 # Teaching Experience
 - SWE2013, Software Creative Project, SKKU, Spring 2016
 - SWE3010, Compiler Design, SKKU, Fall 2015
