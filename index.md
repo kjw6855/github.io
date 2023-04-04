@@ -44,7 +44,7 @@ system security, software-defined networks, intent-based networking, fuzzing, op
 
 # Publications
 ## Conference Papers
-- __Jiwon Kim__, Benjamin E. Ujcich, Dave (Jing) Tian, Intender: Fuzzing Intent-Based Networking with Intent-State Transition Guidance, USENIX Security Symposium (Security ‘23), Aug 2023.
+- __Jiwon Kim__, Benjamin E. Ujcich, Dave (Jing) Tian. [Intender: Fuzzing Intent-Based Networking with Intent-State Transition Guidance](https://www.usenix.org/conference/usenixsecurity23/presentation/kimjiwon), *USENIX Security Symposium (Security ‘23)*, Aug 2023.
 
 - Jungsik Choi, __Jiwon Kim__, Hwansoo Han. [Efficient Memory Mapped File I/O for In-Memory File Systems](https://www.usenix.org/conference/hotstorage17/program/presentation/choi), *USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage'17)*, Jul 2017.
 
