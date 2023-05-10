@@ -24,13 +24,13 @@
   <![endif]-->
   {% include head-custom.html %}
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-149507113-2"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
   <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'UA-149507113-2');
+  gtag('config', '{{ site.google_analytics }}');
 </script>
 </head>
 <body>

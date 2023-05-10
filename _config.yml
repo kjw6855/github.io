@@ -10,7 +10,7 @@ show_downloads: false
 address: 250 N University St, West Lafayette, IN 47907
 cv: /data/jiwon-cv.pdf
 avatar: "/img/purdue.png"
-google_analytics: 'UA-149507113-2'
+google_analytics: 'G-6D0TJS39CH'
 remote_theme: BDHU/minimalist
 favicon: true
 plugins:
