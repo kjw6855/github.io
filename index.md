@@ -2,11 +2,11 @@
 I am a third year Ph.D. student in [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/).
 I work in [PurSec Lab](https://pursec.cs.purdue.edu/) under the supervision of [Prof. Dave (Jing) Tian](https://davejingtian.org/).
 My research interests lie in the field of computer and network security.
-In particular, I am interested in secure architectures for next-generation networks and systems, including cloud networking, software-defined networking (SDN), and intent-based networking (IBN).
+In particular, I am interested in secure architectures for next-generation networks and systems, including cloud networking, software-defined networking (SDN), intent-based networking (IBN), and programmable networking.
 Before joining Purdue, I worked in the industry for almost 4 years as a research engineer to design and develop SDN and cloud networking products.
 
 # Research Interests
-system security, software-defined networks, intent-based networking, fuzzing, operating systems, and system software for non-volatile memory
+security for next-generation networks (software-defined networking, intent-based networking, and programmable networking), fuzzing, operating systems, and system software for non-volatile memory
 
 # Education
 - **Ph.D.**, Computer Science, [Purdue University](https://www.cs.purdue.edu/), Aug 2020 ~ *Present*
@@ -53,6 +53,7 @@ system security, software-defined networks, intent-based networking, fuzzing, op
 - Jungsik Choi, Joonwook Ahn, __Jiwon Kim__, Sungtae Ryu, Hwansoo Han. [In-Memory File System with Efficient Swap Support for
 Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Transactions on Consumer Electronics (TCE)*, Vol. 62(3), pp. 275-282, Aug 2016.
 
+<!--
 ## Domestic Journal Articles/Conference Papers (Korean)
 - Kyungjun Lee, __Jiwon Kim__, Sungtae Ryu, Hwansoo Han, [In-Memory File System Backed by Cloud Storage Services as Permanent Storages](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06737192&language=en), *Journal of KIISE*, Vol. 43(8), pp. 841-847, Aug 2016.
 
@@ -61,6 +62,7 @@ Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Trans
 - Inseok Koh, __Jiwon Kim__, Heeseung Jo, Eric T. Matson, [Smart Cane Navigator: Obstacle Avoidance Navigation System for Visually Impaired](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07017546&language=en), *KIISE Korea Computer Congress 2016 (KCC'16)*, Jun 2016.
 
 - __Jiwon Kim__, Jungsik Choi, and Hwansoo Han, [Mapping Cache for High-performance Memory Mapped File I/O in Memory File Systems](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06668085&language=en), *Journal of KIISE*, Vol. 43(5), pp. 524-530, May 2016.
+-->
 
 # Patents
 - Jungsik Choi, Hwansoo Han, __Jiwon Kim__, [Memory mapping management method for nonvolatile main memory system](https://patents.google.com/patent/US10185654B2/en), US Patent 10,185,654, 2019.
@@ -81,8 +83,10 @@ Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Trans
 
 - Hwansoo Han, Jungsik Choi, __Jiwon Kim__, [Method for atomic update of memory mapped files stored in non-volatile memory and control apparatus thereof](https://patents.google.com/patent/KR101881038B1/en), KR 10-1881038, 2018.
 
+
 <!--
 # Reported Vulnerabilities and CVEs
+### ONOS Intent-Based Networking Vulnerabilities
 - [CVE-2022-29944](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-29944): disclosure pending
 - [CVE-2022-29609](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-29609): disclosure pending
 - [CVE-2022-29608](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-29608): disclosure pending
@@ -93,12 +97,15 @@ Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Trans
 - [CVE-2022-24109](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-24109): disclosure pending
 - [CVE-2022-24035](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-24035): disclosure pending
 - [CVE-2021-38364](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-38364): disclosure pending
-- [CVE-2021-38363](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-38363): disclosure pending
+- [CVE-2021-38363](https://cve.mitre.org/cgi-bin/cvename.cgi?name=2021-38363): ONOS
 -->
 
 # Academic Services
 ### Techincal Program Committee
 - IEEE Workshop on the Internet of Safe Things (__SafeThings__): 2023
+
+### External Reviewer
+- International Symposium on Research in Attacks, Intrusions, and Defenses (__RAID__): 2023
 
 # Teaching Experience
 - SWE2013, Software Creative Project, SKKU, Spring 2016
@@ -106,13 +113,13 @@ Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Trans
 - ICE2002, Data Structures, SKKU, Fall 2015
 - GEDB029, Basis and Practice in Programming, SKKU, Spring 2015
 
-# Honors and Awards
-- [Hall of Fame](img/awards/hall-of-fame.pdf), ATTO Research, Aug 2018
-- [Outstanding Paper Award](img/awards/outstanding-paper.pdf), Korea Institute of Information Scientists and Engineers, Dec 2015
-- [Dean’s List](img/awards/deans-list13.pdf), Sungkyunkwan University, Apr 2013 and Oct 2012
-
 # Scholarships
 - Ross Fellowship, Purdue University, Aug 2020 ~ Aug 2024
 - Simsan Scholarship, Sungkyunkwan University, Mar 2016 ~ Aug 2016
 - Masters and Doctors Connected Track Scholarship, Sungkyunkwan University, Mar 2015 ~ Aug 2016
 - National Science & Technology Scholarship, Korea Student Aid Foundation, Mar 2011 ~ Feb 2015
+
+# Honors and Awards
+- [Hall of Fame](img/awards/hall-of-fame.pdf), ATTO Research, Aug 2018
+- [Outstanding Paper Award](img/awards/outstanding-paper.pdf), Korea Institute of Information Scientists and Engineers, Dec 2015
+- [Dean’s List](img/awards/deans-list13.pdf), Sungkyunkwan University, Apr 2013 and Oct 2012
