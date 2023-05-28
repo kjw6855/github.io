@@ -105,6 +105,7 @@ Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Trans
 - IEEE Workshop on the Internet of Safe Things (__SafeThings__): 2023
 
 ### External Reviewer
+- Network and Distributed System Security Symposium (__NDSS__): 2024
 - International Symposium on Research in Attacks, Intrusions, and Defenses (__RAID__): 2023
 
 # Teaching Experience
