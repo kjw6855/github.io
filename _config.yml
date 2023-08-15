@@ -8,7 +8,7 @@ description: >-
 logo: /img/jiwonkim.JPG
 show_downloads: false
 address: 250 N University St, West Lafayette, IN 47907
-cv: /data/jiwon-cv.pdf
+cv: /jiwon-cv.pdf
 avatar: "/img/purdue.png"
 google_analytics: 'G-6D0TJS39CH'
 remote_theme: BDHU/minimalist
@@ -33,4 +33,4 @@ sidebar:
     link: https://www.linkedin.com/in/jiwon-kim-b3056686
   - name: CV
     icon: <i class="fa-solid fa-file-lines"></i>
-    link: /data/jiwon-cv.pdf
+    link: /jiwon-cv.pdf

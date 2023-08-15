@@ -47,10 +47,10 @@ Security for next-generation networks (software-defined networking, intent-based
 - **["Intender: Fuzzing Intent-Based Networking with Intent-State Transition Guidance"](https://www.usenix.org/conference/usenixsecurity23/presentation/kimjiwon)**\
   __Jiwon Kim__, Benjamin E. Ujcich, Dave (Jing) Tian.\
   *USENIX Security Symposium (Security ‘23)*, Aug 2023.\
-  \[[PDF](data/papers/sec23_intender.pdf)\] \[[slides](data/slides/sec23_intender.pdf)\] \[[code](https://github.com/purseclab/intender)\]
+  \[[PDF](papers/sec23_intender.pdf)\] \[[slides](slides/sec23_intender.pdf)\] \[[code](https://github.com/purseclab/intender)\]
 
 
-- **["Efficient Memory Mapped File I/O for In-Memory File Systems](https://www.usenix.org/conference/hotstorage17/program/presentation/choi)**\
+- **["Efficient Memory Mapped File I/O for In-Memory File Systems"](https://www.usenix.org/conference/hotstorage17/program/presentation/choi)**\
   Jungsik Choi, __Jiwon Kim__, Hwansoo Han.\
   *USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage'17)*, Jul 2017.
 
