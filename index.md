@@ -1,12 +1,12 @@
 # About
-I am a third year Ph.D. student in [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/).
+I am a fourth year Ph.D. student in [Department of Computer Science](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/).
 I work in [PurSec Lab](https://pursec.cs.purdue.edu/) under the supervision of [Prof. Dave (Jing) Tian](https://davejingtian.org/).
 My research interests lie in the field of computer and network security.
 In particular, I am interested in secure architectures for next-generation networks and systems, including cloud networking, software-defined networking (SDN), intent-based networking (IBN), and programmable networking.
 Before joining Purdue, I worked in the industry for almost 4 years as a research engineer to design and develop SDN and cloud networking products.
 
 # Research Interests
-security for next-generation networks (software-defined networking, intent-based networking, and programmable networking), fuzzing, operating systems, and system software for non-volatile memory
+Security for next-generation networks (software-defined networking, intent-based networking, and programmable networking), fuzzing, operating systems, and system software for non-volatile memory
 
 # Education
 - **Ph.D.**, Computer Science, [Purdue University](https://www.cs.purdue.edu/), Aug 2020 ~ *Present*
@@ -44,14 +44,22 @@ security for next-generation networks (software-defined networking, intent-based
 
 # Publications
 ## Conference Papers
-- __Jiwon Kim__, Benjamin E. Ujcich, Dave (Jing) Tian. [Intender: Fuzzing Intent-Based Networking with Intent-State Transition Guidance](https://www.usenix.org/conference/usenixsecurity23/presentation/kimjiwon), *USENIX Security Symposium (Security ‘23)*, Aug 2023.
+- **["Intender: Fuzzing Intent-Based Networking with Intent-State Transition Guidance"](https://www.usenix.org/conference/usenixsecurity23/presentation/kimjiwon)**\
+  __Jiwon Kim__, Benjamin E. Ujcich, Dave (Jing) Tian.\
+  *USENIX Security Symposium (Security ‘23)*, Aug 2023.\
+  \[[PDF](data/papers/sec23_intender.pdf)\] \[[slides](data/slides/sec23_intender.pdf)\] \[[code](https://github.com/purseclab/intender)\]
 
-- Jungsik Choi, __Jiwon Kim__, Hwansoo Han. [Efficient Memory Mapped File I/O for In-Memory File Systems](https://www.usenix.org/conference/hotstorage17/program/presentation/choi), *USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage'17)*, Jul 2017.
+
+- **["Efficient Memory Mapped File I/O for In-Memory File Systems](https://www.usenix.org/conference/hotstorage17/program/presentation/choi)**\
+  Jungsik Choi, __Jiwon Kim__, Hwansoo Han.\
+  *USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage'17)*, Jul 2017.
 
 ## Journal Articles
 
-- Jungsik Choi, Joonwook Ahn, __Jiwon Kim__, Sungtae Ryu, Hwansoo Han. [In-Memory File System with Efficient Swap Support for
-Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Transactions on Consumer Electronics (TCE)*, Vol. 62(3), pp. 275-282, Aug 2016.
+- **["In-Memory File System with Efficient Swap Support for Mobile Smart Devices"](http://ieeexplore.ieee.org/document/7613194/)**\
+  Jungsik Choi, Joonwook Ahn, __Jiwon Kim__, Sungtae Ryu, Hwansoo Han.\
+  *IEEE Transactions on Consumer Electronics (TCE)*, Vol. 62(3), pp. 275-282, Aug 2016.
+
 
 <!--
 ## Domestic Journal Articles/Conference Papers (Korean)
@@ -114,13 +122,13 @@ Mobile Smart Devices](http://ieeexplore.ieee.org/document/7613194/), *IEEE Trans
 - ICE2002, Data Structures, SKKU, Fall 2015
 - GEDB029, Basis and Practice in Programming, SKKU, Spring 2015
 
-# Scholarships
+# Awards
+- College of Science Graduate Student Travel Grant, Purdue University, Aug 2023
 - Ross Fellowship, Purdue University, Aug 2020 ~ Aug 2024
+- Hall of Fame, ATTO Research, Aug 2018
 - Simsan Scholarship, Sungkyunkwan University, Mar 2016 ~ Aug 2016
+- Outstanding Paper Award, Korea Institute of Information Scientists and Engineers (KIISE), Dec 2015
 - Masters and Doctors Connected Track Scholarship, Sungkyunkwan University, Mar 2015 ~ Aug 2016
+- Dean’s List, Sungkyunkwan University, Apr 2013
+- Dean’s List, Sungkyunkwan University, Oct 2012
 - National Science & Technology Scholarship, Korea Student Aid Foundation, Mar 2011 ~ Feb 2015
-
-# Honors and Awards
-- [Hall of Fame](img/awards/hall-of-fame.pdf), ATTO Research, Aug 2018
-- [Outstanding Paper Award](img/awards/outstanding-paper.pdf), Korea Institute of Information Scientists and Engineers, Dec 2015
-- [Dean’s List](img/awards/deans-list13.pdf), Sungkyunkwan University, Apr 2013 and Oct 2012
