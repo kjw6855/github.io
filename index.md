@@ -43,6 +43,16 @@ Security for next-generation networks (software-defined networking, intent-based
   - Participated in quality assurance team
 
 # Publications
+
+## Journal Articles
+- **"Security Challenges of Intent-Based Networking"**\
+  __Jiwon Kim__, Dave (Jing) Tian, Hamed Okhravi, Benjamin E. Ujcich.\
+  To appear in *Communications of the ACM*, 2024.
+
+- **["In-Memory File System with Efficient Swap Support for Mobile Smart Devices"](http://ieeexplore.ieee.org/document/7613194/)**\
+  Jungsik Choi, Joonwook Ahn, __Jiwon Kim__, Sungtae Ryu, Hwansoo Han.\
+  *IEEE Transactions on Consumer Electronics (TCE)*, Vol. 62(3), pp. 275-282, Aug 2016.
+
 ## Conference Papers
 - **["Intender: Fuzzing Intent-Based Networking with Intent-State Transition Guidance"](https://www.usenix.org/conference/usenixsecurity23/presentation/kimjiwon)**\
   __Jiwon Kim__, Benjamin E. Ujcich, Dave (Jing) Tian.\
@@ -53,12 +63,6 @@ Security for next-generation networks (software-defined networking, intent-based
 - **["Efficient Memory Mapped File I/O for In-Memory File Systems"](https://www.usenix.org/conference/hotstorage17/program/presentation/choi)**\
   Jungsik Choi, __Jiwon Kim__, Hwansoo Han.\
   *USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage'17)*, Jul 2017.
-
-## Journal Articles
-
-- **["In-Memory File System with Efficient Swap Support for Mobile Smart Devices"](http://ieeexplore.ieee.org/document/7613194/)**\
-  Jungsik Choi, Joonwook Ahn, __Jiwon Kim__, Sungtae Ryu, Hwansoo Han.\
-  *IEEE Transactions on Consumer Electronics (TCE)*, Vol. 62(3), pp. 275-282, Aug 2016.
 
 
 <!--
