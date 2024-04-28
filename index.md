@@ -122,10 +122,14 @@ Security for next-generation networks (software-defined networking, intent-based
 - International Symposium on Research in Attacks, Intrusions, and Defenses (__RAID__): 2023
 
 # Teaching Experience
-- SWE2013, Software Creative Project, SKKU, Spring 2016
-- SWE3010, Compiler Design, SKKU, Fall 2015
-- ICE2002, Data Structures, SKKU, Fall 2015
-- GEDB029, Basis and Practice in Programming, SKKU, Spring 2015
+### Guest Lecture
+- Intent-Based Network Security, CS 528, Network Security, Purdue University, Spring 2024
+
+### Teaching Assistant (TA)
+- SWE2013, Software Creative Project, Sungkyunkwan University, Spring 2016
+- SWE3010, Compiler Design, Sungkyunkwan University, Fall 2015
+- ICE2002, Data Structures, Sungkyunkwan University, Fall 2015
+- GEDB029, Basis and Practice in Programming, Sungkyunkwan University, Spring 2015
 
 # Awards
 - College of Science Graduate Student Travel Grant, Purdue University, Aug 2023
