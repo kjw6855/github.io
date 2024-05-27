@@ -44,16 +44,13 @@ Security for next-generation networks (software-defined networking, intent-based
 
 # Publications
 
-## Journal Articles
-- **"Security Challenges of Intent-Based Networking"**\
-  __Jiwon Kim__, Dave (Jing) Tian, Hamed Okhravi, Benjamin E. Ujcich.\
-  To appear in *Communications of the ACM*, 2024.
-
-- **["In-Memory File System with Efficient Swap Support for Mobile Smart Devices"](http://ieeexplore.ieee.org/document/7613194/)**\
-  Jungsik Choi, Joonwook Ahn, __Jiwon Kim__, Sungtae Ryu, Hwansoo Han.\
-  *IEEE Transactions on Consumer Electronics (TCE)*, Vol. 62(3), pp. 275-282, Aug 2016.
-
 ## Conference Papers
+- **"Exploiting Temporal Vulnerabilities for Unauthorized Access in Intent-based Networking"**\
+  Ben Weintraub, __Jiwon Kim__, Ran Tao, Cristina Nita-Rotaru, Hamed Okhravi, Dave (Jing) Tian, Benjamin E. Ujcich.\
+  To appear in *ACM Conference on Computer and Communications Security (CCS ’24)*, Oct 2024.
+  <!--\[[PDF](papers/sec23_intender.pdf)\] \[[slides](slides/sec23_intender.pdf)\] \[[code](https://github.com/purseclab/intender)\]-->
+
+
 - **["Intender: Fuzzing Intent-Based Networking with Intent-State Transition Guidance"](https://www.usenix.org/conference/usenixsecurity23/presentation/kimjiwon)**\
   __Jiwon Kim__, Benjamin E. Ujcich, Dave (Jing) Tian.\
   *USENIX Security Symposium (Security ‘23)*, Aug 2023.\
@@ -64,6 +61,16 @@ Security for next-generation networks (software-defined networking, intent-based
   Jungsik Choi, __Jiwon Kim__, Hwansoo Han.\
   *USENIX Workshop on Hot Topics in Storage and File Systems (HotStorage'17)*, Jul 2017.
 
+
+## Journal Articles
+- **"Security Challenges of Intent-Based Networking"**\
+  __Jiwon Kim__, Dave (Jing) Tian, Hamed Okhravi, Benjamin E. Ujcich.\
+  To appear in *Communications of the ACM*, Jul 2024.
+
+
+- **["In-Memory File System with Efficient Swap Support for Mobile Smart Devices"](http://ieeexplore.ieee.org/document/7613194/)**\
+  Jungsik Choi, Joonwook Ahn, __Jiwon Kim__, Sungtae Ryu, Hwansoo Han.\
+  *IEEE Transactions on Consumer Electronics (TCE)*, Vol. 62(3), pp. 275-282, Aug 2016.
 
 <!--
 ## Domestic Journal Articles/Conference Papers (Korean)
