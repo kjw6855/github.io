@@ -63,9 +63,9 @@ Security for next-generation networks (software-defined networking, intent-based
 
 
 ## Journal Articles
-- **"Security Challenges of Intent-Based Networking"**\
+- **["Security Challenges of Intent-Based Networking"](https://cacm.acm.org/research/security-challenges-of-intent-based-networking/)**\
   __Jiwon Kim__, Dave (Jing) Tian, Hamed Okhravi, Benjamin E. Ujcich.\
-  To appear in *Communications of the ACM*, Jul 2024.
+  *Communications of the ACM*, Jul 2024.
 
 
 - **["In-Memory File System with Efficient Swap Support for Mobile Smart Devices"](http://ieeexplore.ieee.org/document/7613194/)**\
